@@ -1,3 +1,4 @@
 [![Build Status](https://travis-ci.org/ArtemVoitenko/STP_L7.svg?branch=master)](https://travis-ci.org/ArtemVoitenko/STP_L7)
 [![codecov](https://codecov.io/gh/ArtemVoitenko/STP_L7/branch/master/graph/badge.svg)](https://codecov.io/gh/ArtemVoitenko/STP_L7)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/367e43d527b94ae889b0f355a0295dd9)](https://www.codacy.com/app/ArtemVoitenko/STP_L7?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ArtemVoitenko/STP_L7&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://api.codacy.com/project/badge/Coverage/367e43d527b94ae889b0f355a0295dd9)](https://www.codacy.com/app/ArtemVoitenko/STP_L7?utm_source=github.com&utm_medium=referral&utm_content=ArtemVoitenko/STP_L7&utm_campaign=Badge_Coverage)
